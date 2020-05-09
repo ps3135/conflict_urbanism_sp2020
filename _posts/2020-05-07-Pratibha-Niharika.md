@@ -11,7 +11,9 @@ Water is one of the most basic needs for survival, but it also fuels commerce, t
 
 This transforms water reserves into a competitive resource giving way to what is known as “***Water World wars***". The theme of our project is to understand this hydropolitics in the Indian subcontinent, looking at the different scales of inter- and intra- hydropolitics and their varied repercussions.
 
+
 #### Case Study: Indus River
+
 
 On Feb 20 2019, India decided to block the flow of its water from three tributaries of Indus river into Pakistan, days after the Pulwama terror attack in which 40 soldiers were killed in Kashmir by a suicide bomber from Pakistan.
 
