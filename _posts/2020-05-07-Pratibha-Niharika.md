@@ -18,9 +18,31 @@ This transforms water reserves into a competitive resource giving way to what is
 On Feb 20 2019, India decided to block the flow of its water from three tributaries of Indus river into Pakistan, days after the Pulwama terror attack in which 40 soldiers were killed in Kashmir by a suicide bomber from Pakistan.
 
 
-<iframe width="100%" height="800px" src="http://www.arcgis.com/apps/MapJournal/index.html?appid=b68a9fb1884d4ed48bdcc63cfa3ebaae" frameborder="0" scrolling="no"></iframe>
+<div class="iframe-column"><iframe src="http://www.arcgis.com/apps/MapJournal/index.html?appid=b68a9fb1884d4ed48bdcc63cfa3ebaae" style="position:absolute;top:0;left:-175;width:150%;height:800px;" frameborder="0" scrolling="no"></iframe></div>
 
-
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
 ![Flooding during Katrina](/conflict_urbanism_sp2020/images/Green Dot Map/FLOODING.gif)  
 *Source: NOLA.com*  
