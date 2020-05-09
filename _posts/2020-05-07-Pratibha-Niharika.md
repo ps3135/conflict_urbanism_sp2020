@@ -6,45 +6,21 @@ title:  "The Land of Sacred Waters: Hydropolitics in the Indian Subcontinent"
 author: "Niharika Shekhawat, Pratibha Singh"
 ---
 
-#### Test
-On January 11th, 2006, the Times-Picayune ran an article that would dramatically alter the trajectory of reconstruction in New Orleans after Hurricane Katrina.
 
-![The Green Dot Map](/conflict_urbanism_sp2020/images/Green Dot Map/Times-Picayune-medium.png)  
-*Source: ResearchGate*  
-  
-**4 MONTHS TO DECIDE,** blared the  headline: **“Nagin panel says hardest hit areas must prove viability.”** The accompanying subtitles read "City's footprint may shrink" and "Full buyouts for those forced to move."
+Water is one of the most basic needs for survival, but it also fuels commerce, trade and economic advancements. Water insecurity continues to be an indicator of instability in many regions of the Indian subcontinent, leading to shortage of drinking water, agriculture and food causing forced displacement and destruction of livelihoods. Usually these water bodies help form natural boundaries, and in several cases their access is shared by adjacent entities. The problem between transboundary water bodies is that the upstream regions can at any moment reduce, stop or pollute the flow of water to the downstream regions. This transforms water reserves into a competitive resource giving way to what is known as “Water World wars''. The theme of our project is to understand this hydropolitics in the Indian subcontinent, looking at the different scales of inter- and intra- hydropolitics and their varied repercussions.
 
-Thus, the infamous "Green Dot Map" entered the local lexicon, and for thousands of displaced New Orleanians, "this map represented the graphic manifestation of their worst fears of losing their homes and the right to return to their neighborhoods." (Lamb 2019)
+This transforms water reserves into a competitive resource giving way to what is known as “***Water World wars***". The theme of our project is to understand this hydropolitics in the Indian subcontinent, looking at the different scales of inter- and intra- hydropolitics and their varied repercussions.
 
-Today, the map is widely regarded as the major catalyst for transforming post-disaster planning in New Orleans from a top-down technocratic approach led by professional planners, to a bottom-up, community-driven approach as residents in heavily damaged areas mobilized to demonstrate "viability" and save their homes.
+#### Case Study: Indus River
 
-To better understand the considerable power of the map in shaping the reconstruction of New Orleans, we will explore the forces that created the map, and aim to answer the following questions:  
-- Who created it and what was their intention?
-- How did it come to be published in the Times-Picayune?  
-- How did the visual rhetoric of the map lead residents to see it as the "manifestation of their worst fears?"
+On Feb 20 2019, India decided to block the flow of its water from three tributaries of Indus river into Pakistan, days after the Pulwama terror attack in which 40 soldiers were killed in Kashmir by a suicide bomber from Pakistan.
 
-Next, we will explore the immediate and lasting implications of the map on New Orleans at a city-wide and neighborhood level. Using three neighborhood case examples, we will answer the following the questions:
-- What overall demographic changes did New Orleans see in the wake of Katrina? 
-- How did the Green Dot Map align with these changes? 
-- How did recovery vary between neighborhoods, and what role did the Green Dot Map pllay?
-
-#### History of the Green Dot Map  
- 
-While the Green Dot Map first reached the public via the Times-Picayune, its origins lie before the article, in the Urban Planning Committee of the Bring New Orleans Back Commission (BNOBC), a group convened by the mayor, Ray Nagin, to guide the recovery and reconstruction of the city.  
-
-![History of Map and the BNOB Committee](/conflict_urbanism_sp2020/images/Green Dot Map/Historicalmaps.gif)  
-*Source: BNOBC, Times-Picayune*     
-
-An earlier version of the Green Dot Map was created by the BNOBC, a single image in a 69-slide powerpoint presentation titled: “Action Plan for New Orleans: The New American City”. The slides supporting the graphic discussed having parks in every neighborhood, incorporated into the city stormwater management system, and the green dots looked visually quite different - drawn with dashed green lines and no fill.  Though the areas they covered were labeled "areas for future parkland," they were intended to be approximate locations where parks could be incorporated into the neighborhood, not suggestions that entire neighborhoods be replaced by parks. The presentation proposed a series of next steps, in particular to identify properties that could be part of the system and secure funding for “park restoration.”
-
-The second Green Dot Map - the one that reached the public - was created by the Times-Picayune staff, and condensed several graphics from the aforementioned presentation into a single map. The visual imagery of the map, and the vague language of its legend do not make it entirely clear what the different areas mean. Between the "areas where building is allowed," "building moratorium until neighborhoods prove viability," and "areas to be redeveloped," some areas seem to hold contradictions (e.g., areas flagged for redevelopment but also needing to prove viability).  
-
-But the most significant visual aspect of the map, and the piece the public responded to with the strongest opposition, were the solid green circles labeled "approximate areas to become park and greenspace." The dashed green circles of the BNOBC map, intended to be tentative suggestions for areas that could be incorporated into the stormwater protection system, were suddenly communicated as nearly definitive greenspaces that would wipe out entire neighborhoods. In conjunction to the bold headlines about "proving viability," this is the aspect of the map that spurred the neighborhood response.
-
-#### The Great Footprint Debate
 ![Flooding during Katrina](/conflict_urbanism_sp2020/images/Green Dot Map/FLOODING.gif)  
 *Source: NOLA.com*  
-However, while the initial Green Dot map was intended to be more provisional than the one that reached the public, both maps point to a larger debate occurring in planning circles at the time. This came to be known in New Orleans as **The Great Footprint Debate**.
+
+text
+
+
 
 As New Orleans worked to recover from the devastation left in Katrina's wake, it was left with the difficult task of envisioning its future. With much of the city flooded, damaged, or destroyed, the city had to face the question: how should New Orleans be rebuilt and what would that process look like?  
 
